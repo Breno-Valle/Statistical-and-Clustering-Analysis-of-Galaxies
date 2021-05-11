@@ -182,3 +182,8 @@ Two more questions were made after that, and i needed to use NON-PARAMETRIC test
 
 This project is a good estrategy to use some machine learning tools and statistical analysis to understand our universe and find hidden patterns in the data. That was a fun and challenging experience where the mathematical, statistical and the astronomical knowledge made me push my self harder in a lot of situations, and i think thats great path if you want to do the same. If you want to share any thoughts with me you can send my an email: breno_valle@outlook.com. Thank you for you attention and good luck discoring the universe with Data!!!
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+If you are getting trouble to acess this notebook on github, try here: https://nbviewer.jupyter.org/
+
+All you need to do is copy/paste the notebook URL on it.
