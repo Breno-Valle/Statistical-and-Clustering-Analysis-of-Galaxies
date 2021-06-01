@@ -3,6 +3,12 @@ A deep dive into the Galaxy's Science using Statistic and Machine Learning.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+If you are getting trouble to acess this notebook on github, try here: https://nbviewer.jupyter.org/
+
+All you need to do is copy/paste the notebook URL on it.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 1-IDEA OF THE PROJECT
 
 The idea of this project was born from my deep love about Astronomy and all the scientific and mathetical aspects around it.
@@ -184,6 +190,4 @@ This project is a good estrategy to use some machine learning tools and statisti
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-If you are getting trouble to acess this notebook on github, try here: https://nbviewer.jupyter.org/
 
-All you need to do is copy/paste the notebook URL on it.
